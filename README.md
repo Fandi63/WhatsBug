@@ -7,7 +7,7 @@ gh repo clone WhatsBug
 
 cd WhatsBug
 
-python whatsbug.py
+python3 whatsbug.py
 
 
 
